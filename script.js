@@ -1,3 +1,3 @@
 //your JS code here. If required.
-let name=document.getElementById("fname");
+const name=document.getElementById("fname");
 name=name.toUpperCase();
